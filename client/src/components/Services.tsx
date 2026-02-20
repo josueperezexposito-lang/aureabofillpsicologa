@@ -2,12 +2,12 @@ import { Card, CardContent, CardHeader, CardTitle } from '@/components/ui/card';
 
 const services = [
   {
-    title: 'Terapia Individual',
+    title: 'Terapia individual',
     description: 'Espacio personalizado para trabajar en tus emociones, patrones de comportamiento y alcanzar tus objetivos de bienestar.',
     icon: '🧠',
   },
   {
-    title: 'Ansiedad y Estrés',
+    title: 'Ansiedad y estrés',
     description: 'Técnicas efectivas para gestionar la ansiedad, ataques de pánico y estrés crónico en tu día a día.',
     icon: '😌',
   },
@@ -17,7 +17,7 @@ const services = [
     icon: '💪',
   },
   {
-    title: 'Crecimiento Personal',
+    title: 'Crecimiento personal',
     description: 'Desarrollo personal, autoestima, habilidades sociales y comunicación efectiva.',
     icon: '🌱',
   },

@@ -37,7 +37,7 @@ export default function Blog() {
       excerpt: 'Trabaja en tu autoestima con ejercicios prácticos. Mejora tu relación contigo mismo y con los demás.',
       date: '8 Feb 2026',
       author: 'Aurea Bofill',
-      category: 'Crecimiento Personal',
+      category: 'Crecimiento personal',
       readTime: '5 min'
     }
   ];
@@ -46,7 +46,7 @@ export default function Blog() {
     <section id="blog" className="py-16 md:py-24 bg-white">
       <div className="container">
         <div className="text-center mb-12">
-          <h2 className="text-4xl md:text-5xl font-bold text-foreground mb-4">Blog de Psicología</h2>
+          <h2 className="text-4xl md:text-5xl font-bold text-foreground mb-4">Blog de psicología</h2>
           <p className="text-lg text-muted-foreground">Artículos sobre salud mental, bienestar y crecimiento personal</p>
         </div>
 

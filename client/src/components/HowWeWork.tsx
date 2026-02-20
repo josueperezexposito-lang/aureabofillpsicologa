@@ -5,25 +5,25 @@ export default function HowWeWork() {
   const steps = [
     {
       number: 1,
-      title: 'Primera Entrevista Gratuita',
+      title: 'Primera entrevista gratuita',
       description: 'Sesión de 30 minutos sin coste para conocernos, evaluar tu situación y determinar el mejor enfoque terapéutico.',
       icon: '📋'
     },
     {
       number: 2,
-      title: 'Evaluación y Plan de Tratamiento',
+      title: 'Evaluación y plan de tratamiento',
       description: 'Análisis profundo de tu caso, identificación de factores clave y diseño de un plan personalizado.',
       icon: '🔍'
     },
     {
       number: 3,
-      title: 'Inicio de la Terapia',
+      title: 'Inicio de la terapia',
       description: 'Sesiones de 45 minutos donde trabajamos activamente en tu bienestar con herramientas prácticas.',
       icon: '💪'
     },
     {
       number: 4,
-      title: 'Seguimiento y Progreso',
+      title: 'Seguimiento y progreso',
       description: 'Acompañamiento continuo, ajuste del tratamiento y espaciamiento de sesiones conforme mejoras.',
       icon: '📈'
     }

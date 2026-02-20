@@ -36,7 +36,7 @@ export default function FAQ() {
     <section id="preguntas-frecuentes" className="py-16 md:py-24 bg-white">
       <div className="container max-w-3xl">
         <div className="text-center mb-12">
-          <h2 className="text-4xl md:text-5xl font-bold text-foreground mb-4">Preguntas Frecuentes</h2>
+          <h2 className="text-4xl md:text-5xl font-bold text-foreground mb-4">Preguntas frecuentes</h2>
           <p className="text-lg text-muted-foreground">Resuelve tus dudas sobre la terapia y el proceso</p>
         </div>
 

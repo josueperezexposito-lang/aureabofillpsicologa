@@ -15,7 +15,7 @@ export default function Footer() {
               </div>
               <div>
                 <p className="font-bold">Aurea Bofill</p>
-                <p className="text-xs text-gray-400">Psicóloga Sanitaria</p>
+                <p className="text-xs text-gray-400">Psicóloga sanitaria</p>
               </div>
             </div>
             <p className="text-sm text-gray-400">

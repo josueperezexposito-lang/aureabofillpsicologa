@@ -63,7 +63,7 @@ export default function Contact() {
                 ></textarea>
               </div>
               <Button type="submit" className="w-full bg-primary hover:bg-primary/90 text-white py-3 rounded-lg text-lg">
-                Enviar Mensaje
+                Enviar mensaje
               </Button>
             </form>
           </div>
@@ -71,8 +71,8 @@ export default function Contact() {
           {/* Contact Info */}
           <div className="space-y-8">
             <div className="bg-gradient-to-br from-primary/10 to-secondary/10 p-8 rounded-lg">
-              <h3 className="text-2xl font-bold text-foreground mb-6">Información de Contacto</h3>
-              
+              <h3 className="text-2xl font-bold text-foreground mb-6">Información de contacto</h3>
+
               <div className="space-y-6">
                 <div className="flex items-start gap-4">
                   <Phone className="text-primary mt-1 flex-shrink-0" size={24} />
@@ -115,7 +115,7 @@ export default function Contact() {
             </div>
 
             <div className="bg-muted p-6 rounded-lg">
-              <h4 className="font-bold text-foreground mb-3">Modalidad de Atención</h4>
+              <h4 className="font-bold text-foreground mb-3">Modalidad de atención</h4>
               <p className="text-muted-foreground">
                 Ofrezco sesiones presenciales en Petrer y Elda, así como consultas online para mayor flexibilidad. Primera sesión de valoración gratuita.
               </p>
