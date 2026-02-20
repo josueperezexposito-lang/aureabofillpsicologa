@@ -13,7 +13,7 @@ export default function AnxietyService() {
         <section className="bg-gradient-to-r from-primary/10 to-secondary/10 py-16 md:py-24">
           <div className="container">
             <h1 className="text-5xl md:text-6xl font-bold text-foreground mb-6">
-              Terapia para la Ansiedad en Petrer y Elda
+              Terapia para la ansiedad en Petrer y Elda
             </h1>
             <p className="text-xl text-muted-foreground mb-8 max-w-2xl">
               Aprende a gestionar la ansiedad con técnicas cognitivo-conductuales efectivas. Sesiones presenciales y online.
@@ -45,7 +45,7 @@ export default function AnxietyService() {
               <Card className="border-border">
                 <CardHeader>
                   <AlertCircle className="text-primary mb-2" size={28} />
-                  <CardTitle>Síntomas Físicos</CardTitle>
+                  <CardTitle>Síntomas físicos</CardTitle>
                 </CardHeader>
                 <CardContent className="space-y-2 text-muted-foreground">
                   <p>• Palpitaciones y aceleración del corazón</p>
@@ -58,7 +58,7 @@ export default function AnxietyService() {
               <Card className="border-border">
                 <CardHeader>
                   <Heart className="text-secondary mb-2" size={28} />
-                  <CardTitle>Síntomas Emocionales</CardTitle>
+                  <CardTitle>Síntomas emocionales</CardTitle>
                 </CardHeader>
                 <CardContent className="space-y-2 text-muted-foreground">
                   <p>• Preocupación constante</p>
@@ -80,22 +80,22 @@ export default function AnxietyService() {
               {[
                 {
                   num: 1,
-                  title: 'Evaluación Inicial',
+                  title: 'Evaluación inicial',
                   desc: 'Identificamos los desencadenantes de tu ansiedad y evaluamos su impacto en tu vida.'
                 },
                 {
                   num: 2,
-                  title: 'Técnicas de Relajación',
+                  title: 'Técnicas de relajación',
                   desc: 'Enseñamos técnicas de respiración, mindfulness y relajación muscular progresiva.'
                 },
                 {
                   num: 3,
-                  title: 'Reestructuración Cognitiva',
+                  title: 'Reestructuración cognitiva',
                   desc: 'Trabajamos en cambiar patrones de pensamiento negativo que alimentan la ansiedad.'
                 },
                 {
                   num: 4,
-                  title: 'Exposición Gradual',
+                  title: 'Exposición gradual',
                   desc: 'Enfrentamos progresivamente las situaciones que generan ansiedad.'
                 }
               ].map((step) => (
@@ -116,7 +116,7 @@ export default function AnxietyService() {
         {/* Benefits */}
         <section className="py-16 md:py-24 bg-muted">
           <div className="container">
-            <h2 className="text-4xl font-bold text-foreground mb-12 text-center">Beneficios de la Terapia</h2>
+            <h2 className="text-4xl font-bold text-foreground mb-12 text-center">Beneficios de la terapia</h2>
             <div className="grid grid-cols-1 md:grid-cols-2 gap-6 max-w-3xl mx-auto">
               {[
                 'Reducción significativa de síntomas de ansiedad',

@@ -12,7 +12,7 @@ export default function SelfEsteemService() {
         <section className="bg-gradient-to-r from-primary/10 to-secondary/10 py-16 md:py-24">
           <div className="container">
             <h1 className="text-5xl md:text-6xl font-bold text-foreground mb-6">
-              Mejora tu Autoestima en Petrer y Elda
+              Mejora tu autoestima en Petrer y Elda
             </h1>
             <p className="text-xl text-muted-foreground mb-8 max-w-2xl">
               Construye una relación positiva contigo mismo y aumenta tu confianza personal.
@@ -25,7 +25,7 @@ export default function SelfEsteemService() {
 
         <section className="py-16 md:py-24 bg-white">
           <div className="container max-w-3xl">
-            <h2 className="text-4xl font-bold text-foreground mb-6">¿Por Qué es Importante la Autoestima?</h2>
+            <h2 className="text-4xl font-bold text-foreground mb-6">¿Por qué es importante la autoestima?</h2>
             <p className="text-lg text-muted-foreground mb-6">
               La autoestima es la base de tu bienestar emocional. Una autoestima saludable te permite tomar decisiones mejores, establecer límites sanos y disfrutar de relaciones más satisfactorias.
             </p>
@@ -34,7 +34,7 @@ export default function SelfEsteemService() {
 
         <section className="py-16 md:py-24 bg-muted">
           <div className="container">
-            <h2 className="text-4xl font-bold text-foreground mb-12 text-center">Beneficios de una Autoestima Fuerte</h2>
+            <h2 className="text-4xl font-bold text-foreground mb-12 text-center">Beneficios de una autoestima fuerte</h2>
             <div className="grid grid-cols-1 md:grid-cols-2 gap-6 max-w-3xl mx-auto">
               {[
                 'Mayor confianza en tus capacidades',
@@ -55,7 +55,7 @@ export default function SelfEsteemService() {
 
         <section className="py-16 md:py-24 bg-white">
           <div className="container text-center">
-            <h2 className="text-4xl font-bold text-foreground mb-6">Empieza tu Transformación Hoy</h2>
+            <h2 className="text-4xl font-bold text-foreground mb-6">Empieza tu transformación hoy</h2>
             <p className="text-xl text-muted-foreground mb-8 max-w-2xl mx-auto">
               Mereces sentirte bien contigo mismo. Juntos trabajaremos para construir una autoestima sólida y duradera.
             </p>

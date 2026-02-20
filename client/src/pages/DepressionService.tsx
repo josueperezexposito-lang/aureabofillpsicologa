@@ -12,7 +12,7 @@ export default function DepressionService() {
         <section className="bg-gradient-to-r from-primary/10 to-secondary/10 py-16 md:py-24">
           <div className="container">
             <h1 className="text-5xl md:text-6xl font-bold text-foreground mb-6">
-              Terapia para la Depresión en Elda y Petrer
+              Terapia para la depresión en Elda y Petrer
             </h1>
             <p className="text-xl text-muted-foreground mb-8 max-w-2xl">
               Recupera tu motivación y alegría de vivir. Tratamiento profesional basado en evidencia científica.
@@ -37,12 +37,12 @@ export default function DepressionService() {
 
         <section className="py-16 md:py-24 bg-muted">
           <div className="container">
-            <h2 className="text-4xl font-bold text-foreground mb-12 text-center">Señales de Depresión</h2>
+            <h2 className="text-4xl font-bold text-foreground mb-12 text-center">Señales de depresión</h2>
             <div className="grid grid-cols-1 md:grid-cols-2 gap-6 max-w-3xl mx-auto">
               <Card className="border-border">
                 <CardHeader>
                   <Cloud className="text-primary mb-2" size={28} />
-                  <CardTitle>Síntomas Emocionales</CardTitle>
+                  <CardTitle>Síntomas emocionales</CardTitle>
                 </CardHeader>
                 <CardContent className="space-y-2 text-muted-foreground">
                   <p>• Tristeza persistente</p>
@@ -55,7 +55,7 @@ export default function DepressionService() {
               <Card className="border-border">
                 <CardHeader>
                   <Lightbulb className="text-secondary mb-2" size={28} />
-                  <CardTitle>Síntomas Físicos</CardTitle>
+                  <CardTitle>Síntomas físicos</CardTitle>
                 </CardHeader>
                 <CardContent className="space-y-2 text-muted-foreground">
                   <p>• Cambios en el apetito</p>
@@ -71,7 +71,7 @@ export default function DepressionService() {
 
         <section className="py-16 md:py-24 bg-white">
           <div className="container text-center">
-            <h2 className="text-4xl font-bold text-foreground mb-6">Recupera tu Bienestar</h2>
+            <h2 className="text-4xl font-bold text-foreground mb-6">Recupera tu bienestar</h2>
             <p className="text-xl text-muted-foreground mb-8 max-w-2xl mx-auto">
               No estás solo. Con el tratamiento adecuado, puedes superar la depresión y disfrutar nuevamente de la vida.
             </p>
