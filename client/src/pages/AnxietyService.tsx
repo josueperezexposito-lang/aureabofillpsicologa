@@ -19,7 +19,7 @@ export default function AnxietyService() {
               Aprende a gestionar la ansiedad con técnicas cognitivo-conductuales efectivas. Sesiones presenciales y online.
             </p>
             <Button className="bg-primary hover:bg-primary/90 text-white px-8 py-3 rounded-full text-lg">
-              Pedir Cita Gratuita
+              Pedir Cita
             </Button>
           </div>
         </section>
@@ -140,11 +140,11 @@ export default function AnxietyService() {
           <div className="container text-center">
             <h2 className="text-4xl font-bold text-foreground mb-6">¿Listo para superar tu ansiedad?</h2>
             <p className="text-xl text-muted-foreground mb-8 max-w-2xl mx-auto">
-              La primera sesión es gratuita. Conoceremos tu situación y diseñaremos un plan personalizado para ti.
+              La sesión inicial es para conocer tu situación y diseñar un plan personalizado para ti.
             </p>
             <div className="flex gap-4 justify-center">
               <Button className="bg-primary hover:bg-primary/90 text-white px-8 py-3 rounded-full text-lg">
-                Pedir Cita Gratuita
+                Pedir Cita
               </Button>
               <Button variant="outline" className="border-primary text-primary px-8 py-3 rounded-full text-lg">
                 Contactar por WhatsApp

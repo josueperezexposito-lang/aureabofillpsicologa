@@ -18,7 +18,7 @@ export default function DepressionService() {
               Recupera tu motivación y alegría de vivir. Tratamiento profesional basado en evidencia científica.
             </p>
             <Button className="bg-primary hover:bg-primary/90 text-white px-8 py-3 rounded-full text-lg">
-              Pedir Cita Gratuita
+              Pedir Cita
             </Button>
           </div>
         </section>
@@ -76,7 +76,7 @@ export default function DepressionService() {
               No estás solo. Con el tratamiento adecuado, puedes superar la depresión y disfrutar nuevamente de la vida.
             </p>
             <Button className="bg-primary hover:bg-primary/90 text-white px-8 py-3 rounded-full text-lg">
-              Solicitar Consulta Gratuita
+              Solicitar Consulta
             </Button>
           </div>
         </section>

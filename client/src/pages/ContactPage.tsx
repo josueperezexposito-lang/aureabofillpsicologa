@@ -54,7 +54,6 @@ export default function ContactPage() {
                     <Phone className="w-8 h-8 text-primary" />
                   </div>
                   <h3 className="text-2xl font-bold text-foreground mb-2">Llámanos</h3>
-                  <p className="text-sm text-muted-foreground mb-4">(Valoración gratuita de 30 min.)</p>
                   <a href="tel:+34652250697" className="text-2xl font-bold text-primary hover:text-primary/80 transition-colors">
                     611 15 43 33
                   </a>
@@ -88,7 +87,6 @@ export default function ContactPage() {
                     <Clock className="w-8 h-8 text-primary" />
                   </div>
                   <h3 className="text-2xl font-bold text-foreground mb-2">Sesión de valoración</h3>
-                  <p className="text-sm text-muted-foreground mb-4">(Valoración gratuita de 30 min.)</p>
                   <a href="https://wa.me/34652250697?text=Hola%20Aurea%2C%20me%20gustar%C3%ADa%20agendar%20una%20cita" target="_blank" rel="noopener noreferrer">
                     <Button className="bg-primary hover:bg-primary/90 text-white">
                       Sesión de valoración
@@ -105,7 +103,7 @@ export default function ContactPage() {
       <section className="py-16 md:py-24 bg-muted">
         <div className="container">
           <h2 className="text-4xl md:text-5xl font-bold text-foreground mb-12 text-center">Visítanos</h2>
-          
+
           <div className="grid grid-cols-1 md:grid-cols-2 gap-12 items-center">
             {/* Contact Info */}
             <div className="space-y-8">
@@ -188,9 +186,9 @@ export default function ContactPage() {
                 <MapPin className="w-12 h-12 text-primary mx-auto mb-4" />
                 <p className="text-foreground font-medium mb-2">Pl. Paco López Pina, 6</p>
                 <p className="text-muted-foreground text-sm">03610 Petrer, Alicante</p>
-                <a 
-                  href="https://maps.google.com/?q=Pl.+Paco+López+Pina,+6,+03610+Petrer,+Alicante" 
-                  target="_blank" 
+                <a
+                  href="https://maps.google.com/?q=Pl.+Paco+López+Pina,+6,+03610+Petrer,+Alicante"
+                  target="_blank"
                   rel="noopener noreferrer"
                   className="inline-block mt-4"
                 >
@@ -305,9 +303,9 @@ export default function ContactPage() {
       {/* CTA Section */}
       <section className="bg-gradient-to-r from-primary/10 to-secondary/10 py-12 md:py-16">
         <div className="container text-center">
-          <h2 className="text-3xl font-bold text-foreground mb-4">¿Prefieres una valoración gratuita?</h2>
+          <h2 className="text-3xl font-bold text-foreground mb-4">¿Listo para empezar tu camino al bienestar?</h2>
           <p className="text-lg text-muted-foreground mb-8 max-w-2xl mx-auto">
-            Puedo ofrecerte una sesión inicial de 30 minutos sin coste para conocernos y valorar cómo puedo ayudarte.
+            Puedo ofrecerte una sesión inicial para conocernos y valorar cómo puedo ayudarte.
           </p>
           <a href="https://wa.me/34652250697?text=Hola%20Aurea%2C%20me%20gustar%C3%ADa%20agendar%20una%20cita" target="_blank" rel="noopener noreferrer">
             <Button className="bg-primary hover:bg-primary/90 text-white h-12 px-8 font-medium text-base">

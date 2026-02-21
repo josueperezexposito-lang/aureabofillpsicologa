@@ -18,7 +18,7 @@ export default function SelfEsteemService() {
               Construye una relación positiva contigo mismo y aumenta tu confianza personal.
             </p>
             <Button className="bg-primary hover:bg-primary/90 text-white px-8 py-3 rounded-full text-lg">
-              Pedir Cita Gratuita
+              Pedir Cita
             </Button>
           </div>
         </section>

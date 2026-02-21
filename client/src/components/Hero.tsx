@@ -9,11 +9,11 @@ export default function Hero({ backgroundImage }: HeroProps) {
     <section className="relative pt-32 md:pt-40 pb-16 md:pb-28 overflow-hidden min-h-screen flex items-center justify-center">
       <div className="absolute inset-0 bg-gradient-to-r from-primary/15 via-secondary/10 to-accent/15"></div>
       {backgroundImage && (
-        <img 
-          src={backgroundImage} 
-          alt="Terapia para adultos en Petrer y Elda" 
-          className="absolute inset-0 w-full h-full object-cover opacity-25" 
-          width="1920" 
+        <img
+          src={backgroundImage}
+          alt="Terapia para adultos en Petrer y Elda"
+          className="absolute inset-0 w-full h-full object-cover opacity-25"
+          width="1920"
           height="1080"
           fetchPriority="high"
           loading="eager"
@@ -34,7 +34,7 @@ export default function Hero({ backgroundImage }: HeroProps) {
           <div className="flex flex-col sm:flex-row gap-4 justify-center mb-8">
             <a href="https://wa.me/34652250697?text=Hola%20Aurea%2C%20me%20gustar%C3%ADa%20agendar%20una%20cita" target="_blank" rel="noopener noreferrer">
               <Button className="bg-primary hover:bg-primary/90 text-white text-base px-8 py-3 rounded-lg shadow-lg h-12 min-w-max font-medium" style={{ lineHeight: '1.5rem' }}>
-                Pedir cita (30 min gratuitos)
+                Pedir cita
               </Button>
             </a>
             <a href="/sobre-mi">

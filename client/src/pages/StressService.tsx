@@ -18,7 +18,7 @@ export default function StressService() {
               Aprende técnicas efectivas para manejar el estrés y recuperar el equilibrio en tu vida.
             </p>
             <Button className="bg-primary hover:bg-primary/90 text-white px-8 py-3 rounded-full text-lg">
-              Pedir Cita Gratuita
+              Pedir Cita
             </Button>
           </div>
         </section>

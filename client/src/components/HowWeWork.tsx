@@ -5,8 +5,8 @@ export default function HowWeWork() {
   const steps = [
     {
       number: 1,
-      title: 'Primera entrevista gratuita',
-      description: 'Sesión de 30 minutos sin coste para conocernos, evaluar tu situación y determinar el mejor enfoque terapéutico.',
+      title: 'Primera entrevista de evaluación',
+      description: 'Sesión inicial para conocernos, evaluar tu situación y determinar el mejor enfoque terapéutico.',
       icon: '📋'
     },
     {

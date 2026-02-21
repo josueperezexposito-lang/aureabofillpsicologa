@@ -180,7 +180,7 @@ export default function AboutPage() {
                   </li>
                   <li className="flex items-start gap-2">
                     <span className="text-primary font-bold">✓</span>
-                    <span>Primera sesión gratuita para conocernos mutuamente</span>
+                    <span>Sesión inicial para conocernos mutuamente</span>
                   </li>
                 </ul>
               </div>
@@ -194,7 +194,7 @@ export default function AboutPage() {
         <div className="container text-center">
           <h2 className="text-3xl font-bold text-foreground mb-4">¿Listo para comenzar tu camino hacia el bienestar?</h2>
           <p className="text-lg text-muted-foreground mb-8 max-w-2xl mx-auto">
-            Te acompaño en cada paso. Primera sesión sin coste de 30 minutos de evaluación previa, por teléfono o videollamada.
+            Te acompaño en cada paso. Primera sesión de evaluación previa, por teléfono o videollamada.
           </p>
           <a href="https://wa.me/34652250697?text=Hola%20Aurea%2C%20me%20gustar%C3%ADa%20agendar%20una%20cita" target="_blank" rel="noopener noreferrer">
             <Button className="bg-primary hover:bg-primary/90 text-white h-12 px-8 font-medium text-base">

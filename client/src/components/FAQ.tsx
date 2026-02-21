@@ -7,8 +7,7 @@ export default function FAQ() {
 
   const faqs = [
     {
-      question: '¿Cuál es el costo de una sesión de terapia?',
-      answer: 'La primera sesión de valoración es completamente gratuita (30 minutos). Las sesiones posteriores tienen una duración de 45 minutos y un costo de 50€ a 80€ según el tipo de intervención.'
+      answer: 'La primera sesión de valoración es para conocernos y evaluar tu situación. Las sesiones posteriores tienen una duración de 45 minutos y un costo de 50€ a 80€ según el tipo de intervención.'
     },
     {
       question: '¿Puedo recibir terapia online?',
