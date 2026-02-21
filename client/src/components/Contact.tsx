@@ -116,12 +116,13 @@ export default function Contact() {
 
             <div className="bg-muted p-6 rounded-lg">
               <h4 className="font-bold text-foreground mb-3">Modalidad de atención</h4>
-              Ofrezco sesiones presenciales en Petrer y Elda, así como consultas online para mayor flexibilidad.
-            </p>
+              <p className="text-muted-foreground">
+                Ofrezco sesiones presenciales en Petrer y Elda, así como consultas online para mayor flexibilidad.
+              </p>
+            </div>
           </div>
         </div>
       </div>
-    </div>
-    </section >
+    </section>
   );
 }
