@@ -27,7 +27,7 @@ export default function AnxietyService() {
         {/* What is Anxiety */}
         <section className="py-16 md:py-24 bg-white">
           <div className="container max-w-3xl">
-            <h2 className="text-4xl font-bold text-foreground mb-6">¿Qué es la Ansiedad?</h2>
+            <h2 className="text-4xl font-bold text-foreground mb-6">¿Qué es la ansiedad?</h2>
             <p className="text-lg text-muted-foreground mb-4">
               La ansiedad es una respuesta natural del cuerpo ante situaciones de estrés o peligro percibido. Sin embargo, cuando se vuelve crónica o desproporcionada, puede afectar significativamente tu calidad de vida.
             </p>
@@ -40,7 +40,7 @@ export default function AnxietyService() {
         {/* Symptoms */}
         <section className="py-16 md:py-24 bg-muted">
           <div className="container">
-            <h2 className="text-4xl font-bold text-foreground mb-12 text-center">Síntomas de la Ansiedad</h2>
+            <h2 className="text-4xl font-bold text-foreground mb-12 text-center">Síntomas de la ansiedad</h2>
             <div className="grid grid-cols-1 md:grid-cols-2 gap-6 max-w-3xl mx-auto">
               <Card className="border-border">
                 <CardHeader>

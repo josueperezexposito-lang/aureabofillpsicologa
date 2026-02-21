@@ -6,7 +6,7 @@ export default function Footer() {
   return (
     <footer className="bg-foreground text-white py-16">
       <div className="container">
-        <div className="grid grid-cols-1 md:grid-cols-5 gap-8 mb-12">
+        <div className="grid grid-cols-1 md:grid-cols-3 gap-8 mb-12">
           {/* Brand */}
           <div className="md:col-span-1">
             <div className="flex items-center gap-2 mb-4">
@@ -42,43 +42,7 @@ export default function Footer() {
             </ul>
           </div>
 
-          {/* Petrer Silo */}
-          <div>
-            <h3 className="font-bold text-lg mb-4">Petrer</h3>
-            <ul className="space-y-2 text-sm text-gray-300">
-              <li>
-                <p onClick={() => setLocation("/ubicaciones/petrer")} className="hover:text-primary cursor-pointer transition-colors">Psicóloga Petrer</p>
-              </li>
-              <li>
-                <p onClick={() => setLocation("/ubicaciones/petrer")} className="hover:text-primary cursor-pointer transition-colors">Terapia Ansiedad Petrer</p>
-              </li>
-              <li>
-                <p onClick={() => setLocation("/ubicaciones/petrer")} className="hover:text-primary cursor-pointer transition-colors">Psicóloga Infantil Petrer</p>
-              </li>
-              <li>
-                <p onClick={() => setLocation("/ubicaciones/petrer")} className="hover:text-primary cursor-pointer transition-colors">Terapia Pareja Petrer</p>
-              </li>
-            </ul>
-          </div>
 
-          {/* Elda Silo */}
-          <div>
-            <h3 className="font-bold text-lg mb-4">Elda</h3>
-            <ul className="space-y-2 text-sm text-gray-300">
-              <li>
-                <p onClick={() => setLocation("/ubicaciones/elda")} className="hover:text-primary cursor-pointer transition-colors">Psicóloga Elda</p>
-              </li>
-              <li>
-                <p onClick={() => setLocation("/ubicaciones/elda")} className="hover:text-primary cursor-pointer transition-colors">Terapia Depresión Elda</p>
-              </li>
-              <li>
-                <p onClick={() => setLocation("/ubicaciones/elda")} className="hover:text-primary cursor-pointer transition-colors">Psicólogo Adicciones Elda</p>
-              </li>
-              <li>
-                <p onClick={() => setLocation("/ubicaciones/elda")} className="hover:text-primary cursor-pointer transition-colors">Terapia Trauma Elda</p>
-              </li>
-            </ul>
-          </div>
 
           {/* Contact Info */}
           <div>
@@ -86,7 +50,7 @@ export default function Footer() {
             <div className="space-y-3 text-sm text-gray-300">
               <div className="flex items-start gap-2">
                 <Phone size={16} className="mt-1 flex-shrink-0 text-primary" />
-                <a href="tel:+34" className="hover:text-primary">+34 XXX XXX XXX</a>
+                <a href="tel:+34611154333" className="hover:text-primary">611 15 43 33</a>
               </div>
               <div className="flex items-start gap-2">
                 <Mail size={16} className="mt-1 flex-shrink-0 text-primary" />
@@ -94,7 +58,7 @@ export default function Footer() {
               </div>
               <div className="flex items-start gap-2">
                 <MapPin size={16} className="mt-1 flex-shrink-0 text-primary" />
-                <p>Petrer y Elda, Alicante</p>
+                <p>Pl. Paco López Pina, 6, 03610 Petrer, Alicante</p>
               </div>
               <div className="flex items-start gap-2">
                 <Clock size={16} className="mt-1 flex-shrink-0 text-primary" />

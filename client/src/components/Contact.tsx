@@ -78,8 +78,8 @@ export default function Contact() {
                   <Phone className="text-primary mt-1 flex-shrink-0" size={24} />
                   <div>
                     <p className="font-semibold text-foreground">Teléfono</p>
-                    <a href="tel:+34" className="text-primary hover:text-primary/80 transition-colors">
-                      +34 XXX XXX XXX
+                    <a href="tel:+34611154333" className="text-primary hover:text-primary/80 transition-colors">
+                      611 15 43 33
                     </a>
                   </div>
                 </div>
@@ -98,7 +98,7 @@ export default function Contact() {
                   <MapPin className="text-primary mt-1 flex-shrink-0" size={24} />
                   <div>
                     <p className="font-semibold text-foreground">Ubicación</p>
-                    <p className="text-muted-foreground">Petrer y Elda, Alicante</p>
+                    <p className="text-muted-foreground">Pl. Paco López Pina, 6, 03610 Petrer, Alicante</p>
                   </div>
                 </div>
 
@@ -106,7 +106,7 @@ export default function Contact() {
                   <MessageCircle className="text-secondary mt-1 flex-shrink-0" size={24} />
                   <div>
                     <p className="font-semibold text-foreground">WhatsApp</p>
-                    <a href="https://wa.me/34" className="text-secondary hover:text-secondary/80 transition-colors">
+                    <a href="https://wa.me/34611154333" className="text-secondary hover:text-secondary/80 transition-colors">
                       Contactar por WhatsApp
                     </a>
                   </div>

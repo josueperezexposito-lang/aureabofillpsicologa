@@ -25,7 +25,7 @@ export default function DepressionService() {
 
         <section className="py-16 md:py-24 bg-white">
           <div className="container max-w-3xl">
-            <h2 className="text-4xl font-bold text-foreground mb-6">¿Qué es la Depresión?</h2>
+            <h2 className="text-4xl font-bold text-foreground mb-6">¿Qué es la depresión?</h2>
             <p className="text-lg text-muted-foreground mb-4">
               La depresión es más que tristeza. Es un trastorno del estado de ánimo que afecta cómo te sientes, piensas y realizas actividades diarias.
             </p>
